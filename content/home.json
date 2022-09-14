@@ -25,16 +25,6 @@
       "enabled": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "views"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "lowest_price"
-    },
-    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
