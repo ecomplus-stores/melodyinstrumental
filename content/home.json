@@ -1,19 +1,5 @@
 {
   "meta_title": "",
   "meta_description": "",
-  "sections": [
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-do-youtube-centrado-em-video-amarelo.png",
-          "mobile_img": "/img/uploads/banner-do-youtube-centrado-em-video-amarelo.png"
-        }
-      ]
-    }
-  ]
+  "sections": []
 }
