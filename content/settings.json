@@ -1,26 +1,26 @@
 {
   "domain": "www.melodyinstrumental.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#da6a6a",
+  "primary_color": "#a46b49",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "minty",
     "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/melodyinstrumental ",
-  "logo": "/img/uploads/1657745813151-520429f0-02ee-11ed-ac9c-21a67a797b63-1-.jpg",
+  "logo": "/img/uploads/loja-instrumentos-1.png",
   "name": "Melody Instrumental",
   "short_name": "Melody Instrumental",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/1657745813151-520429f0-02ee-11ed-ac9c-21a67a797b63-1-.jpg",
+  "favicon": "/img/uploads/loja-instrumentos-1.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#000000",
-  "icon": "/img/uploads/1657745813151-520429f0-02ee-11ed-ac9c-21a67a797b63-1-.jpg",
+  "secondary_color": "#535252",
+  "icon": "/img/uploads/loja-instrumentos-1.png",
   "store_id": 15629,
   "description": "Loja de Instrumentos Musicais e Acessórios ",
-  "large_icon": "/img/uploads/1657745813151-520429f0-02ee-11ed-ac9c-21a67a797b63-1-.jpg"
+  "large_icon": "/img/uploads/loja-instrumentos-1.png"
 }
