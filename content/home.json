@@ -3,11 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "highest_price"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -18,15 +13,6 @@
           "img": "/img/uploads/banner-amarelo.png"
         }
       ]
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "sales"
     }
   ]
 }
