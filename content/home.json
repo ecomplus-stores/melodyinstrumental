@@ -14,6 +14,11 @@
           "mobile_img": "/img/uploads/site.png"
         }
       ]
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "slug"
     }
   ]
 }
