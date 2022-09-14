@@ -1,5 +1,18 @@
 {
   "meta_title": "",
   "meta_description": "",
-  "sections": []
+  "sections": [
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-do-youtube-centrado-em-video-amarelo.png"
+        }
+      ]
+    }
+  ]
 }
