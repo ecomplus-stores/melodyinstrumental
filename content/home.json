@@ -10,7 +10,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-amarelo.png"
+          "img": "/img/uploads/banner-do-youtube-centrado-em-video-amarelo.png",
+          "mobile_img": "/img/uploads/banner-do-youtube-centrado-em-video-amarelo.png"
         }
       ]
     }
