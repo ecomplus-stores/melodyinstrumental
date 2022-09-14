@@ -2,7 +2,7 @@
   "marketing_stripe": {
     "text": "",
     "link": "",
-    "background": "#f1b77c"
+    "background": "#5c5c5c"
   },
   "contacts_stripe": {
     "pages": [
@@ -12,12 +12,14 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 11,
-    "full_width": true
+    "featured": [
+      "/violoes?Violões"
+    ],
+    "random": 6,
+    "full_width": false
   },
   "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": true,
-  "full_width_submenu": true
+  "full_width_submenu": false
 }
