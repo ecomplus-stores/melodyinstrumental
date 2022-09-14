@@ -1,8 +1,8 @@
 {
   "marketing_stripe": {
-    "text": "COMPRE SEU PRODUTO",
+    "text": "",
     "link": "",
-    "background": "#5c5c5c",
+    "background": "#ffad60",
     "color": "#ffffff"
   },
   "contacts_stripe": {
