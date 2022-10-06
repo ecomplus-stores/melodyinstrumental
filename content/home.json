@@ -24,14 +24,6 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
-      "title": "Mais Vendidos"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "sort": "offers",
       "title": "Promoções"
     },
@@ -43,6 +35,16 @@
       "collection_id": "61fc348f7963422eeee82185:categories:Violões:/violoes",
       "sort": "views",
       "title": "Violões"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "title": "Mais Vendidos",
+      "collection_id": "633ee92673321213f89f4725:categories:Acessórios:/suportes",
+      "link": "Acessórios"
     },
     {
       "type": "brands-carousel",
