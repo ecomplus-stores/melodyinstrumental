@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "SUA LOJA ONLINE DE INSTRUMENTOS MUSICAIS E ACESSÓRIOS",
+    "text": "\"FRETE FIXO DE 25,00 PARA BOCAIÚVA E REGIÃO\"",
     "link": "",
     "background": "#ff0000",
     "color": "#ffffff"
@@ -14,9 +14,13 @@
   },
   "categories_list": {
     "featured": [
-      "/violoes?Violões"
+      "/encordoamentos?Encordoamentos",
+      "/instrumentos?Instrumentos",
+      "/audio?Áudio",
+      "/suportes?Acessórios",
+      "/capasbags?Capas/Bags"
     ],
-    "random": 6,
+    "random": 0,
     "full_width": true
   },
   "desktop_megamenu": true,
