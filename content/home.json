@@ -33,7 +33,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "633ee7af73321213f89f442a:categories:Instrumentos:/instrumentos",
-      "sort": "views",
+      "sort": "sales",
       "title": "Instrumentos"
     },
     {
@@ -41,10 +41,9 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views",
-      "title": "Acessórios",
       "collection_id": "633ee92673321213f89f4725:categories:Acessórios:/suportes",
-      "link": ""
+      "title": "Acessórios",
+      "sort": "views"
     },
     {
       "type": "brands-carousel",
