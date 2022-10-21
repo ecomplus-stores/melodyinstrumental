@@ -13,8 +13,15 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
+    "featured": [
+      "/instrumentos?Instrumentos",
+      "/audio?Áudio",
+      "/encordoamentos?Encordoamentos",
+      "/acessorios?Acessórios",
+      "/suportes?Suportes",
+      "/capasbags?Capas/Bags"
+    ],
+    "random": 0,
     "full_width": true
   },
   "desktop_megamenu": true,
