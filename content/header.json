@@ -17,9 +17,9 @@
       "/instrumentos?Instrumentos",
       "/audio?Áudio",
       "/encordoamentos?Encordoamentos",
-      "/acessorios?Acessórios",
       "/suportes?Suportes",
-      "/capasbags?Capas/Bags"
+      "/capasbags?Capas/Bags",
+      "/acessorios?Acessórios"
     ],
     "random": 0,
     "full_width": true
