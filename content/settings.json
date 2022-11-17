@@ -1,7 +1,7 @@
 {
   "domain": "www.melodyinstrumental.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#ffffff",
+  "primary_color": "#390000",
   "theme": {
     "bootswatch": "minty",
     "custom": "_"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/loja-instrumentos-1.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#cac4c1",
+  "secondary_color": "#5f0000",
   "icon": "/img/uploads/loja-instrumentos-1.png",
   "store_id": 15629,
   "description": "Loja de Instrumentos Musicais e Acessórios ",
