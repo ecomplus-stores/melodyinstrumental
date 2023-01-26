@@ -1,10 +1,10 @@
 {
   "pkg": "@ecomplus/widget-addi",
-  "active": true,
+  "active": false,
   "desktopOnly": false,
   "options": {
-    "enableWidgetProduct": true,
-    "allySlug": "violao-giannini-aco-sf14-ceq-nt-brilhantr"
+    "enableWidgetProduct": false,
+    "allySlug": " "
   },
   "productSlots": "src/append/product-slots",
   "bodyAppend": "src/append/body"
