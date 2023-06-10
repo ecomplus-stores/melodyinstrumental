@@ -1,16 +1,12 @@
 {
   "sections": [
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "page-title",
       "title": ""
     },
     {
       "type": "document-banner",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "brand-retail",
@@ -19,6 +15,10 @@
     },
     {
       "type": "document-description",
+      "enabled": true
+    },
+    {
+      "type": "breadcrumbs",
       "enabled": true
     }
   ]
