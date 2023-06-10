@@ -5,11 +5,12 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "#giannini"
     },
     {
       "type": "document-banner",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "brand-retail",
