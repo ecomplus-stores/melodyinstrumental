@@ -20,6 +20,12 @@
     {
       "type": "breadcrumbs",
       "enabled": true
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 8,
+      "offset": 0,
+      "sort": "name"
     }
   ]
 }
