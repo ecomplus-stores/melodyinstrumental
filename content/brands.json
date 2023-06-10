@@ -6,12 +6,12 @@
     },
     {
       "type": "document-banner",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "brand-retail",
       "enabled": true,
-      "sort": "sales"
+      "sort": "views"
     },
     {
       "type": "document-description",
@@ -19,13 +19,18 @@
     },
     {
       "type": "breadcrumbs",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "brands-carousel",
       "limit": 8,
       "offset": 0,
-      "sort": "name"
+      "sort": "name",
+      "autoplay": 0
+    },
+    {
+      "type": "document-banner",
+      "enabled": true
     }
   ]
 }
