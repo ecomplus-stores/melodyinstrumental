@@ -6,7 +6,7 @@
     "bootswatch": "minty",
     "custom": "_"
   },
-  "bg_color": "#2c2c2c",
+  "bg_color": "#333333",
   "repository": "ecomplus-stores/melodyinstrumental ",
   "logo": "/img/uploads/logotipo-principal-marca-d-agua_1.png",
   "name": "Melody Instrumental",
@@ -15,12 +15,12 @@
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/loja-instrumentos-1.png",
+  "favicon": "/img/uploads/logotipo-principal-marca-d-agua_1.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#5f0000",
-  "icon": "/img/uploads/loja-instrumentos-1.png",
+  "icon": "/img/uploads/logotipo-principal-marca-d-agua_1.png",
   "store_id": 15629,
   "description": "Loja de Instrumentos Musicais e Acessórios ",
-  "large_icon": "/img/uploads/loja-instrumentos-1.png"
+  "large_icon": "/img/uploads/logotipo-principal-marca-d-agua_1.png"
 }
