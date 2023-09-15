@@ -1,7 +1,7 @@
 {
   "domain": "www.melodyinstrumental.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#390000",
+  "primary_color": "#006091",
   "theme": {
     "bootswatch": "minty",
     "custom": "_"
