@@ -16,10 +16,6 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 20,
@@ -51,6 +47,10 @@
       "offset": 0,
       "sort": null,
       "autoplay": 5000
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
