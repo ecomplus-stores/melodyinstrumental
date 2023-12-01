@@ -1,8 +1,8 @@
 {
   "marketing_stripe": {
-    "text": "FRETE GRÁTIS ACIMA DE R$300,00",
+    "text": "10% DE DESCONTO PARA PAGAMENTOS NO PIX",
     "link": "",
-    "background": "#000000",
+    "background": "#196eaa",
     "color": "#ffffff"
   },
   "contacts_stripe": {
@@ -20,8 +20,7 @@
       "/suportes?Suportes",
       "/capasbags?Capas/Bags",
       "/acessorios?Acessórios",
-      "/som-e-mesa?Som e Mesa",
-      "/black-friday?Black Friday"
+      "/som-e-mesa?Som e Mesa"
     ],
     "random": 0,
     "full_width": true
