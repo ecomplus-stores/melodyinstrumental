@@ -6,3 +6,4 @@ Disallow: /search?
 Disallow: /search.html$
 Disallow: /search.html?
 Disallow: /admin/
+Disallow: /tenda-6x6-piramidal
