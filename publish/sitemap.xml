@@ -4586,12 +4586,6 @@
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/pilha-zinco-d-panasonic-um-1sh-bli/20</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.melodyinstrumental.com.br/pilha-zinco-aa-panasonic-um-3sh-c/52</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -4641,6 +4635,12 @@
   
     <url>
       <loc>https://www.melodyinstrumental.com.br/rx213.at.n.j_lh-violao-profissional-classico-atv.-nat.-corda-nl---fishman-oem-psy---canhoto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.melodyinstrumental.com.br/pilha-zinco-15v-d-um-1sh300-c/20-pilhas-panasonic</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
