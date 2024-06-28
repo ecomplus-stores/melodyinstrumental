@@ -4640,13 +4640,19 @@
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/cx-som-ativa-jbl-max-12-pt</loc>
+      <loc>https://www.melodyinstrumental.com.br/caixa-de-som-ativa-jbl-max-12-bluetooth-preto</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/cx-mult-gamer-fortrek-blackhawk-rgb</loc>
+      <loc>https://www.melodyinstrumental.com.br/caixa-de-som-ativa-jbl-max-15-bluetooth-preto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.melodyinstrumental.com.br/caixa-de-som-gamer-multimdia-fortrek-black-hawk-rgb-preta</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -4838,6 +4844,12 @@
     </url>
   
     <url>
+      <loc>https://www.melodyinstrumental.com.br/admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
       <loc>https://www.melodyinstrumental.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -4847,12 +4859,6 @@
       <loc>https://www.melodyinstrumental.com.br/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.melodyinstrumental.com.br/admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
     </url>
   
 </urlset>
