@@ -4598,6 +4598,12 @@
     </url>
   
     <url>
+      <loc>https://www.melodyinstrumental.com.br/fita-dupla-face-uso-interno-fixa-tudo-25mmx2m-blister-tekbond</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.melodyinstrumental.com.br/capas-violao</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -5270,15 +5276,15 @@
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://www.melodyinstrumental.com.br/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.melodyinstrumental.com.br/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
