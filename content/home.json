@@ -1,11 +1,11 @@
 {
-  "meta_title": "infantil",
-  "meta_description": "infantil",
+  "meta_title": "BLACK FRIDAY",
+  "meta_description": "BLACK FRIDAY",
   "sections": [
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "start": "",
