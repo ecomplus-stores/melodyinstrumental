@@ -464,12 +464,6 @@
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/cabo-de-forca</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.melodyinstrumental.com.br/peles</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -573,6 +567,12 @@
   
     <url>
       <loc>https://www.melodyinstrumental.com.br/lampada</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.melodyinstrumental.com.br/cabo-de-forca</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
