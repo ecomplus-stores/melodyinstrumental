@@ -560,6 +560,36 @@
     </url>
   
     <url>
+      <loc>https://www.melodyinstrumental.com.br/cabos-pedal</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.melodyinstrumental.com.br/cabos-de-audio</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.melodyinstrumental.com.br/lampada</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.melodyinstrumental.com.br/filtro-de-linha</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.melodyinstrumental.com.br/extensao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.melodyinstrumental.com.br/capa-para-cavaco-simples-melody-instrumental</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -6230,13 +6260,13 @@
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/app/index</loc>
+      <loc>https://www.melodyinstrumental.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/admin/index</loc>
+      <loc>https://www.melodyinstrumental.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
