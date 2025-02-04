@@ -3134,12 +3134,6 @@
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/escudo-violo-preto-prince</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.melodyinstrumental.com.br/escudo-guitarra-strato-3-singles-perolizado-branco-3-camadas---prince</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -3225,6 +3219,12 @@
   
     <url>
       <loc>https://www.melodyinstrumental.com.br/escudo-violo-shell-red-tortoise-prince</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.melodyinstrumental.com.br/escudo-violo-preto-prince</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -5048,12 +5048,6 @@
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/monitor-gamer-pcyes-o-creed-o10-238-full-hd-165hz-1ms-hdmi-dp-usb-freesync---pmg240fd165</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.melodyinstrumental.com.br/apoio-de-pe-para-violonista---cor-preta---tns1954-11</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -5079,6 +5073,12 @@
   
     <url>
       <loc>https://www.melodyinstrumental.com.br/computador-b500-core-i5-9400f-2.9ghz-mem-8gb-ddr4-ssd-256gb-gpu-g210-fonte-200w-windows-11-pro</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.melodyinstrumental.com.br/monitor-gamer-pcyes-o-creed-o10-238-full-hd-165hz-1ms-hdmi-dp-usb-freesync---pmg240fd165</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
