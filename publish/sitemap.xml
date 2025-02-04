@@ -5438,12 +5438,6 @@
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/cola-instantnea-tek-bond</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.melodyinstrumental.com.br/adaptador-comica</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -5840,12 +5834,6 @@
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/cola-gel-2-em-1-30g-tekbond</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.melodyinstrumental.com.br/bqt-macaneta-liverpool-mc49v-vm</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -5907,18 +5895,6 @@
   
     <url>
       <loc>https://www.melodyinstrumental.com.br/ext-tripla-10m-10a-2pt-megatron-br-biv</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.melodyinstrumental.com.br/cola-branca-escolar-40g-tekbond</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.melodyinstrumental.com.br/cola-instantanea-2g-tekbond</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -6548,13 +6524,13 @@
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/pages/sobre-nos</loc>
+      <loc>https://www.melodyinstrumental.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/pages/privacidade</loc>
+      <loc>https://www.melodyinstrumental.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
