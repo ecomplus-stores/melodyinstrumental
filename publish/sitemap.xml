@@ -6488,6 +6488,12 @@
     </url>
   
     <url>
+      <loc>https://www.melodyinstrumental.com.br/suporte-para-bebidas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.melodyinstrumental.com.br/giannini</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
