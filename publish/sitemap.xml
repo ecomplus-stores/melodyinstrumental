@@ -6536,6 +6536,18 @@
     </url>
   
     <url>
+      <loc>https://www.melodyinstrumental.com.br/tarol</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.melodyinstrumental.com.br/repique</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.melodyinstrumental.com.br/giannini</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -6656,13 +6668,13 @@
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/pages/entrega</loc>
+      <loc>https://www.melodyinstrumental.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/pages/faq</loc>
+      <loc>https://www.melodyinstrumental.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
