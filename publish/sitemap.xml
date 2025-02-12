@@ -5900,6 +5900,12 @@
     </url>
   
     <url>
+      <loc>https://www.melodyinstrumental.com.br/mic-dinamico-mao-harmonics-mdu101</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.melodyinstrumental.com.br/capas-violao</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -6632,7 +6638,7 @@
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/pages/privacidade</loc>
+      <loc>https://www.melodyinstrumental.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -6644,19 +6650,19 @@
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/pages/termos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.melodyinstrumental.com.br/pages/pagamentos</loc>
+      <loc>https://www.melodyinstrumental.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://www.melodyinstrumental.com.br/pages/trocas</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.melodyinstrumental.com.br/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
