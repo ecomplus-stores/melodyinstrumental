@@ -1,6 +1,6 @@
 {
-  "meta_title": "RESSACA DE CARNAVAL",
-  "meta_description": "RESSACA DE CARNAVAL",
+  "meta_title": "Mês do Consumidor",
+  "meta_description": "Mês do Consumidor",
   "sections": [
     {
       "type": "banner-slider",
@@ -10,7 +10,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/whatsapp-image-2025-03-07-at-16.43.28.jpeg"
+          "img": "/img/uploads/desconto-e-ofertas-para-o-mes-do-consumidor-loja-de-eletros-criativo-azul-e-laranja-banner-para-mercado-shops-site-.png"
         }
       ]
     },
@@ -50,6 +50,11 @@
       "offset": 0,
       "sort": null,
       "autoplay": 5000
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false
     }
   ]
 }
