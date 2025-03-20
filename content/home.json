@@ -4,13 +4,13 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 10000,
+      "autoplay": 99000,
       "full_width": false,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/desconto-e-ofertas-para-o-mes-do-consumidor-loja-de-eletros-criativo-azul-e-laranja-banner-para-mercado-shops-1920-x-780-px-1500-x-780-px-1400-x-780-px-.png"
+          "img": "/img/uploads/desconto-e-ofertas-para-o-mes-do-consumidor-loja-de-eletros-criativo-azul-e-laranja-banner-para-mercado-shops-1920-x-780-px-1500-x-780-px-1400-x-780-px-1-.png"
         }
       ]
     },
