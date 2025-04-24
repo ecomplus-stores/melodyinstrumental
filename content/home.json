@@ -54,7 +54,19 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/entregamos-para-todo-o-brasil-1920-x-578-px-2-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/entregamos-para-todo-o-brasil-1920-x-578-px-3-.png"
+        }
+      ]
     }
   ]
 }
