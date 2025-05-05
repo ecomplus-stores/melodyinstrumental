@@ -674,7 +674,7 @@
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/cabo-p10-x-p10</loc>
+      <loc>https://www.melodyinstrumental.com.br/cabo-midi</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -6872,13 +6872,13 @@
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/pages/privacidade</loc>
+      <loc>https://www.melodyinstrumental.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/pages/sobre-nos</loc>
+      <loc>https://www.melodyinstrumental.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
