@@ -7022,6 +7022,12 @@
     </url>
   
     <url>
+      <loc>https://www.melodyinstrumental.com.br/pedal-para-teclado</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.melodyinstrumental.com.br/giannini</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -7178,13 +7184,13 @@
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/pages/trocas</loc>
+      <loc>https://www.melodyinstrumental.com.br/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/pages/termos</loc>
+      <loc>https://www.melodyinstrumental.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
