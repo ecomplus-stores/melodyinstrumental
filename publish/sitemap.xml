@@ -7028,36 +7028,6 @@
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/adesivo-instantaneo-793-20g-tekbond</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.melodyinstrumental.com.br/cola-madeira-100g-tekbond</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.melodyinstrumental.com.br/lima-rotativa-p/madeira-brasfort-c/5</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.melodyinstrumental.com.br/aruela-lisa-3/16-brasfort-c/20-pct/20</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.melodyinstrumental.com.br/lampada-led-bulbo-15w-6500k-elgin</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.melodyinstrumental.com.br/cavaco-elet-giannini-cs1-goal-ns</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -7107,12 +7077,6 @@
   
     <url>
       <loc>https://www.melodyinstrumental.com.br/teclado-portatil-yamaha-ypt-380-pt</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.melodyinstrumental.com.br/mouse-opt-800dpi-usb-fortrek-fk411m-pt</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -7250,13 +7214,13 @@
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/pages/pagamentos</loc>
+      <loc>https://www.melodyinstrumental.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/pages/faq</loc>
+      <loc>https://www.melodyinstrumental.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
