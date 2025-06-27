@@ -710,6 +710,12 @@
     </url>
   
     <url>
+      <loc>https://www.melodyinstrumental.com.br/ganza-chocallo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.melodyinstrumental.com.br/capa-para-cavaco-simples-melody-instrumental</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -7466,25 +7472,25 @@
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/pages/sobre-nos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.melodyinstrumental.com.br/pages/trocas</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.melodyinstrumental.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
+      <loc>https://www.melodyinstrumental.com.br/pages/sobre-nos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.melodyinstrumental.com.br/pages/termos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.melodyinstrumental.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
