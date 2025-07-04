@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.97e439b87e605730865bcd5c4296f43f.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.aa231ade6bcbebba8cbc5eba799b2a3c.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.268d2f9a64b9abdae5c63030c621124a.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.25b5e45897436e444c9f2906de383a32.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.9224ef6a77067c1076c670bbc1932c1a.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Melody Instrumental",
+  "short_name": "Melody Instrumental",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja de Instrumentos Musicais e Acessórios ",
+  "background_color": "#333333",
+  "theme_color": "#006091"
+}
