@@ -6758,18 +6758,6 @@
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/parafuso-atarraxante-para-escudo-de-guitarra</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.melodyinstrumental.com.br/parafuso-philips-preto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.melodyinstrumental.com.br/viola-elet-acust-giannini-vs14eqns-nt</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -6855,6 +6843,12 @@
   
     <url>
       <loc>https://www.melodyinstrumental.com.br/adaptador-splitterp2/p3</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.melodyinstrumental.com.br/parafuso-atarraxante-para-escudo-de-guitarra</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -7772,12 +7766,6 @@
     </url>
   
     <url>
-      <loc>https://www.melodyinstrumental.com.br/pages/faq</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.melodyinstrumental.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -7785,6 +7773,12 @@
   
     <url>
       <loc>https://www.melodyinstrumental.com.br/pages/privacidade</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.melodyinstrumental.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
