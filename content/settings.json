@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#2b0090",
   "theme": {
-    "bootswatch": "cerulean",
-    "custom": "clean-gray"
+    "bootswatch": "pulse",
+    "custom": "clean-white"
   },
   "bg_color": "#333333",
   "repository": "ecomplus-stores/melodyinstrumental ",
