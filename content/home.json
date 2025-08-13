@@ -1,6 +1,6 @@
 {
-  "meta_title": "Dia dos Pais na Melody",
-  "meta_description": "Dia dos Pais na Melody",
+  "meta_title": "Melody Instrumental",
+  "meta_description": "Melody Instrumental",
   "sections": [
     {
       "type": "banner-slider",
@@ -16,6 +16,11 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/cavaco-rozini-1920-x-578-px-1-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/cavaco-rozini-1920-x-578-px-2-.png"
         }
       ]
     },
