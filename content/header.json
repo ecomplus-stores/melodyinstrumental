@@ -2,7 +2,7 @@
   "marketing_stripe": {
     "text": "10% De desconto para pagamentos via PIX",
     "link": "",
-    "background": "#d00505",
+    "background": "#009cff",
     "color": "#ffffff"
   },
   "contacts_stripe": {
