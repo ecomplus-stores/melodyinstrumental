@@ -32,11 +32,12 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 20,
-      "page": "",
+      "limit": 21,
+      "page": 1,
       "sort": "offers",
-      "title": "Promoções",
-      "collection_id": null
+      "title": "Guitarras ",
+      "collection_id": "62cf28daeb859112168643b7:categories:Guitarra:/guitarra",
+      "link": "javascript:;"
     },
     {
       "type": "collection-shelf",
