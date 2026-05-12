@@ -35,9 +35,9 @@
       "limit": 21,
       "page": 1,
       "sort": "offers",
-      "title": "Guitarras ",
-      "collection_id": "62cf28daeb859112168643b7:categories:Guitarra:/guitarra",
-      "link": "javascript:;"
+      "title": "Ofertas",
+      "collection_id": null,
+      "link": ""
     },
     {
       "type": "collection-shelf",
