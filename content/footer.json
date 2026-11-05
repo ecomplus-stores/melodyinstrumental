@@ -1,7 +1,7 @@
 {
   "description": {
     "title": "Melody Instrumental ",
-    "text": "A Melody Instrumental é a sua loja online de produtos musicais com os melhores preços da internet e praticidade na compra.    "
+    "text": "Loja de instrumentos musicais em Bocaiúva, MG. Encontre violões, guitarras, acessórios e equipamentos de áudio na loja física e compre online com entrega para todo o Brasil."
   },
   "links_1": {
     "list_pages": true,
@@ -40,6 +40,7 @@
     "mastercard": true,
     "citibank": false,
     "mais": false,
+    "pix": true,
     "itau": true
   },
   "credits": ""
