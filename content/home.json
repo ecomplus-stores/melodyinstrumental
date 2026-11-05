@@ -10,7 +10,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner_melody_violao_1920x578_abaixo_1000kb.jpg"
+          "img": "/img/uploads/banner_melody_violao_1920x578_abaixo_1000kb.jpg",
+          "link": "/violao",
+          "alt": "Violões de aço eletroacústicos na Melody Instrumental"
         },
         {
           "start": "",
@@ -56,7 +58,8 @@
       "page": 1,
       "collection_id": "633ee92673321213f89f4725:categories:Acessórios:/suportes",
       "title": "Acessórios",
-      "sort": "slug"
+      "sort": "slug",
+      "link": "/acessorios"
     },
     {
       "type": "brands-carousel",
